@@ -1,0 +1,10 @@
+/* Ruben Bernal Ramos, CSI1 */
+
+.cua{
+   width:100px;
+   height:100px;
+   margin:6rem;
+   background-color: green;
+   padding: 1rem green;
+   box-shadow: -1.5em -1.5em blue, -3em -3em red;
+}
